@@ -15,7 +15,7 @@ const Operators = () => {
   // };
 
   return (
-    <div>
+    <div className="operatorContainer">
       {operators.map(item => (
         <OperatorButton buttonValue={item.char} />
       ))}

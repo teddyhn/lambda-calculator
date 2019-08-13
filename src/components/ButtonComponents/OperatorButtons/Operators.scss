@@ -1,0 +1,16 @@
+.operatorContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.operatorButton {
+    height: 90px;
+    width: 90px;
+    background-color: #00B5E2;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    font-size: 2rem;
+    margin-bottom: 15px;
+}

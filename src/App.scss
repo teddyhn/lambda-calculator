@@ -1,0 +1,19 @@
+@import "./components/DisplayComponents/Display";
+@import "./components/ButtonComponents/NumberButtons/Numbers";
+@import "./components/ButtonComponents/SpecialButtons/Specials";
+@import "./components/ButtonComponents/OperatorButtons/Operators";
+
+.container {
+    height: 700px;
+    width: 470px;
+    margin: auto;
+    background-color: #C31437;
+    border: 2px solid gray;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.buttons {
+    display: flex;
+    margin-top: 30px;
+}

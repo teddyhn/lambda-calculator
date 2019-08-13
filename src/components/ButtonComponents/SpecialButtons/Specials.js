@@ -11,7 +11,7 @@ const Specials = () => {
   const [specialState, setSpecial] = useState(specials);
 
   return (
-    <div>
+    <div className="specialContainer">
       {specials.map(item => (
         <SpecialButton buttonValue={item} />
       ))}

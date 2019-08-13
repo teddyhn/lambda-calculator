@@ -11,7 +11,7 @@ const Numbers = () => {
   const [numberState, setNumber] = useState(numbers);
 
   return (
-    <div>
+    <div className="numberContainer">
       {numbers.map(item => (
         <NumberButton buttonValue={item} />
       ))}
