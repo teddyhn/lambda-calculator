@@ -41,6 +41,8 @@
   font-size: 2rem;
   margin-right: 30px;
   margin-bottom: 15px;
+  -webkit-box-shadow: 0 8px 4px -2px #000000CC;
+          box-shadow: 0 8px 4px -2px #000000CC;
 }
 
 .numberZeroButton {
@@ -53,6 +55,8 @@
   font-size: 2rem;
   margin-right: 30px;
   margin-bottom: 15px;
+  -webkit-box-shadow: 0 8px 4px -2px #000000CC;
+          box-shadow: 0 8px 4px -2px #000000CC;
 }
 
 .specialContainer {
@@ -74,6 +78,8 @@
   border-radius: 50%;
   border: none;
   font-size: 2rem;
+  -webkit-box-shadow: 0 8px 4px -2px #000000CC;
+          box-shadow: 0 8px 4px -2px #000000CC;
 }
 
 .operatorContainer {
@@ -98,6 +104,8 @@
   border: none;
   font-size: 2rem;
   margin-bottom: 15px;
+  -webkit-box-shadow: 0 8px 4px -2px #000000CC;
+          box-shadow: 0 8px 4px -2px #000000CC;
 }
 
 .container {

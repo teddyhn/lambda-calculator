@@ -20,5 +20,7 @@
   border: none;
   font-size: 2rem;
   margin-bottom: 15px;
+  -webkit-box-shadow: 0 8px 4px -2px #000000CC;
+          box-shadow: 0 8px 4px -2px #000000CC;
 }
 /*# sourceMappingURL=Operators.css.map */
