@@ -1,0 +1,23 @@
+.specialContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-right: 30px;
+  margin-bottom: 15px;
+}
+
+.specialButton {
+  height: 90px;
+  width: 90px;
+  background-color: #0061AD;
+  color: white;
+  border-radius: 50%;
+  border: none;
+  font-size: 2rem;
+  -webkit-box-shadow: 0 8px 4px -2px black;
+          box-shadow: 0 8px 4px -2px black;
+}
+/*# sourceMappingURL=Specials.css.map */
